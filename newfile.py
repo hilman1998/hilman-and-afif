@@ -7,3 +7,5 @@ def Periksa():
     print ("Hello dunia")
 
 Periksa()
+
+hgfliwe
