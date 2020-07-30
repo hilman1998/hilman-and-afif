@@ -1,4 +1,9 @@
-def Test():
+def Ujian():
     print("Hello World")
 
-Test()
+Ujian()
+
+def Periksa():
+    print ("Hello dunia")
+
+Periksa()
